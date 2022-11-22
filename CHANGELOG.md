@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 `TrueTime.swift` adheres to [Semantic Versioning](http://semver.org/).
 
+## [5.2.0](https://github.com/instacart/TrueTime.swift/releases/tag/5.2.0)
+
+- Changed: Added Swift Package manager support (NEDAP)
+
 ## [5.1.0](https://github.com/instacart/TrueTime.swift/releases/tag/5.1.0)
 
 - Changed: `CTrueTime` is now embeded in the project to avoid issues with Carthage.

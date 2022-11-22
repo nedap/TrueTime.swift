@@ -90,7 +90,7 @@ $ carthage update
 Add this to your `Package.swift`:
 
 ```
-.package(url: "https://github.com/jay18001/TrueTime.swift", .revision("51068ca")),
+.package(url: "https://github.com/jay18001/TrueTime.swift", "5.2.0"),
 ```
 
 ### CocoaPods
